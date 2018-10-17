@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My test suite">
+	<test name="testing">
+		<packages>
+			<package name="com.avivasa.selenium.kis.test" />
+			<package name="com.avivasa.selenium.minibis.test" />
+			<package name="com.avivasa.selenium.rop.test" />
+			<package name="com.avivasa.selenium.as400.test" />
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
